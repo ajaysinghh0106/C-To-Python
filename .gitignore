@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Java
+*.class
+/build/
+/out/
+
+# C/C++
+*.o
+*.exe
+
+# Node
+/node_modules/
+dist/
